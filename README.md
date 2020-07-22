@@ -7,5 +7,5 @@
 - 💬 Ask me about - C++ 
 - 📫 How to reach me: <vijitkala@gmail.com>
 - 😄 Pronouns: He/She
-- ⚡ Fun fact: I can code for almost 48 hours in a single run
+- ⚡ Fun fact: The creators of Breaking Bad made a real savewalterwhite.com, and it has raised over $125,000 for The National Cancer Coalition. Cool right?
 
