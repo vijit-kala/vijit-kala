@@ -1,6 +1,6 @@
 ### Hi 👋, I am Vijit Kala
 
-- 🔭 I’m currently working on - A discord Bot
+- 🔭 I’m currently working on - A personal project
 - 🌱 I’m currently learning - react.js
 - 👯 I’m looking to collaborate on - Full-Stack Development
 - 🤔 I’m looking for help with - Adding more functionality to the bot
