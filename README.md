@@ -22,6 +22,8 @@
 
 ### Languages & Tools:
 
+#### Programming Languages:
+
 <img align="left" alt="Python" width="30px" src="https://pythonprogramming.net/static/images/finance/python-programming-language.png">
 
 <img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
@@ -30,15 +32,26 @@
 
 <img align="left" alt="JS" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png">
 
+<br/>
+
+
+#### Markup Languages:
+
 <img align="left" alt="HTML" width="30px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png">
 
 <img align="left" alt="CSS" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
+
+<img align="left" alt="LaTeX" width="30px" src="https://cdn2.iconfinder.com/data/icons/oxygen/128x128/mimetypes/text-x-bibtex.png">
+<br/>
+
+#### Tools:
 
 <img align="left" alt="VSCODE" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 
 <img align="left" alt="GIT" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 <img align="left" alt="BASH" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+
 
 <br/>
 <br/>
