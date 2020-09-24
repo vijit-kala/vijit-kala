@@ -11,7 +11,7 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - A personal project
-- 🌱 I’m currently learning - JavaScript and DSA
+- 🌱 I’m currently learning - Data Structures & Algorithms
 - 👯 Open to Collaborate
 - 💼 Actively Seeking internship opportunities
 - ⚡ Hobbies: I like playing Football and love watching Anime
