@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hi all, I'm Vijit.
+## 🙋‍♂️ It's-a me Vijit.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vijit-kala.vijit-kala)
 
