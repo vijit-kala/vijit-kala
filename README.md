@@ -24,13 +24,13 @@
 
 #### Programming Languages:
 
-<img align="left" alt="Java" width="30px" src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=2&page=1&position=2&related_id=226777&origin=search">
+<img align="left" alt="Java" width="30px" src="https://icon-library.com/images/icon-java/icon-java-6.jpg">
 
 <img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
 
 <img align="left" alt="C" width="30px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png">
 
-br/>
+<br/>
 
 
 #### Markup Languages:
