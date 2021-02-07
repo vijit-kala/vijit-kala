@@ -24,7 +24,7 @@
 
 #### Programming Languages:
 
-<img align="left" alt="Java" width="30px" src="https://iconscout.com/icon/java-43">
+<img align="left" alt="Java" width="30px" src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=2&page=1&position=2&related_id=226777&origin=search">
 
 <img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
 
@@ -40,6 +40,7 @@ br/>
 <img align="left" alt="CSS" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
 
 <img align="left" alt="LaTeX" width="30px" src="https://cdn2.iconfinder.com/data/icons/oxygen/128x128/mimetypes/text-x-bibtex.png">
+
 <br/>
 
 #### Tools:
