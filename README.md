@@ -15,7 +15,6 @@
 - 👯 Open to Collaborate.
 - 💼 Actively Seeking internship opportunities.
 - ⚡ Hobbies: I like playing Football, Coding and love watching Anime and reading Manga.
-- 💻 Newbie in Competitive Programming.
 - 💬 Fun fact: The creators of Breaking Bad made a real savewalterwhite.com, and it has raised over $125,000 for The National Cancer Coalition of The United States. Cool right?
 
 <br/>
