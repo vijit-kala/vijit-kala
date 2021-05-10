@@ -47,7 +47,7 @@
 
 <img align="left" alt="VSCODE" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 
-<img align="left" alt="Atom Editor" width="30px" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/atom_103345.png">
+<img align="left" alt="Intellij Idea" width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 
 <img align="left" alt="GIT" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
