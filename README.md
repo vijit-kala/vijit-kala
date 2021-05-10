@@ -69,4 +69,4 @@
 [website]: https://blank
 [linkedin]: https://www.linkedin.com/in/vijit-kala-95a536198/
 
-[![Vijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijit-kala)](https://github.com/vijit-kala/github-readme-stats)
+[![Vijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijit-kala&show_icons=true&theme=dracula)](https://github.com/vijit-kala/github-readme-stats)
