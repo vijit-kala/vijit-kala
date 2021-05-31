@@ -1,7 +1,5 @@
 ## 🙋‍♂️ It's-a me Vijit.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vijit-kala.vijit-kala)
-
 <!-- <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="right"  width="100%"/> -->
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" align="right"  width="40%"/>
 
