@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning - `DSA && Web Development `.
 - 👯 Open to Collaborate.
 - 💼 Actively Seeking internship opportunities.
-- ⚡ Hobbies: I like playing Football, Coding and love watching Anime and reading Manga.
+- ⚡ Hobbies: I like to solve problems and if I'm not solving problems you'll find me watching anime or reading books/manga :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
 <br/>
