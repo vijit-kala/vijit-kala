@@ -24,7 +24,7 @@
 
 <img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
 
-<img align="left" alt="Java" width="30px" src="https://icon-library.com/images/icon-java/icon-java-6.jpg">
+<img align="left" alt="Python" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+python-1324451463772498768.png">
 
 <img align="left" alt="C" width="30px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png">
 
@@ -45,7 +45,7 @@
 
 <img align="left" alt="VSCODE" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 
-<img align="left" alt="Intellij Idea" width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img align="left" alt="PyCharm" width="30px" src="https://icons-for-free.com/iconfiles/png/512/pycharm-1324440218718168854.png"/>
 
 <img align="left" alt="GIT" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
