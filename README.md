@@ -22,11 +22,11 @@
 #### Programming Languages:
 
 
-<img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
+<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 
 <img align="left" alt="Python" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+python-1324451463772498768.png">
 
-<img align="left" alt="C" width="30px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png">
+<img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
 
 <br/>
 
