@@ -9,7 +9,7 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal project`.
-- 🌱 I’m currently learning - `DSA && Backend Development `.
+- 🌱 I’m currently learning - `DSA & Android App Development `.
 - 👯 Open to Collaborate.
 - 💼 Actively Seeking internship opportunities.
 - ⚡ Hobbies: I like to solve problems and if I'm not solving problems you'll find me watching anime or reading books/manga :P.
