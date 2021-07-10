@@ -28,6 +28,8 @@
 
 <img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
 
+<img align="left" alt="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin.png">
+
 <br/>
 
 
