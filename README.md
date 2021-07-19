@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning - `DSA & Full-stack Development`.
 - 👯 Open to Collaborate on Web and UI/UX Development.
 - 💼 Actively Seeking internship opportunities.
-- ⚡ Hobbies: I like to solve problems and if I'm not solving problems you'll find me watching anime or reading books/manga :P.
+- ⚡ Hobbies: I like to solve problems using math or code and if I'm not solving problems you'll find me studying astronomy, watching anime or reading books/manga :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
 <br/>
@@ -21,10 +21,11 @@
 
 #### Programming Languages:
 
+<img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
 
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 
-<img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
+<img align="left" alt="JS" width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
 
 <br/>
 
