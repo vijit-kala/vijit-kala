@@ -9,8 +9,8 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal project`.
-- 🌱 I’m currently learning - `DSA & Android App Development `.
-- 👯 Open to Collaborate on Android App Dev and Web Development.
+- 🌱 I’m currently learning - `DSA & Back-end Development`.
+- 👯 Open to Collaborate on Web and UI/UX Development.
 - 💼 Actively Seeking internship opportunities.
 - ⚡ Hobbies: I like to solve problems and if I'm not solving problems you'll find me watching anime or reading books/manga :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
@@ -25,8 +25,6 @@
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 
 <img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
-
-<img align="left" alt="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin.png">
 
 <br/>
 
