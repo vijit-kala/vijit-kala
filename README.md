@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on - `A personal project`.
 - 🌱 I’m currently learning - `DSA & Full-stack Development`.
-- 👯 Open to Collaborate on Web and UI/UX Development.
+- 👯 Open to Collaborate on Web Dev and Leetcode grinds.
 - 💼 Actively Seeking internship opportunities.
 - ⚡ Hobbies: I like to solve problems using math or code and if I'm not solving problems you'll find me studying astronomy, watching anime or reading books/manga :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
