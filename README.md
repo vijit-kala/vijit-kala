@@ -24,7 +24,7 @@
 
 <img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
 
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png">
 
 <img align="left" alt="JS" width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
 
