@@ -9,9 +9,9 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal project`.
-- 🌱 I’m currently learning - `DSA & Full-stack Development`.
-- 👯 Open to Collaborate on Web Dev and Leetcode grinds.
-- 🗒️ Plans for 2021: Getting good at Web Dev.
+- 🌱 I’m currently learning - `DSAt`.
+- 👯 Open to Collaborate on Problem Solving and Leetcode grinds.
+- 🗒️ Plans for 2021: Getting good at ML.
 - 💼 Actively Seeking internship opportunities.
 - ⚡ Hobbies: I like to solve problems using math or code and if I'm not solving problems you'll find me studying astronomy, watching anime or reading books/manga :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
@@ -26,7 +26,7 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png">
 
-<img align="left" alt="JS" width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png">
 
 <br/>
 
