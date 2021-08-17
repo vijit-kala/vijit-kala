@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on - `A personal project`.
 - 🌱 I’m currently learning - `DSA`.
 - 👯 Open to Collaborate on Problem Solving and Leetcode grinds.
-- 🗒️ Plans for 2021: Getting good at ML.
+- 🗒️ Plans for 2021: Getting good at Problem Solving.
 - 💼 Actively Seeking internship opportunities.
 - ⚡ Hobbies: I like to solve problems using math or code and if I'm not solving problems you'll find me studying astronomy, watching anime or reading books/manga :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
