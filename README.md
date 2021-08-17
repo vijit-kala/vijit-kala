@@ -9,7 +9,7 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal project`.
-- 🌱 I’m currently learning - `DSAt`.
+- 🌱 I’m currently learning - `DSA`.
 - 👯 Open to Collaborate on Problem Solving and Leetcode grinds.
 - 🗒️ Plans for 2021: Getting good at ML.
 - 💼 Actively Seeking internship opportunities.
