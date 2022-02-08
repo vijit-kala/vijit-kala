@@ -26,7 +26,7 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png">
 
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/office/16/000000/java-eclipse.png">
+<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 
 <br/>
 
