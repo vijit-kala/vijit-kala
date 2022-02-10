@@ -8,12 +8,12 @@
 
 ### Currently a CS Undergrad.
 
-- 🔭 I’m currently working on - `A personal project`.
-- 🌱 I’m currently learning - `DSA`.
-- 👯 Open to Collaborate on Problem Solving and Leetcode grinds.
-- 🗒️ Plans for 2021: Getting good at Problem Solving.
+- 🔭 I’m currently working on - `A personal Project`.
+- 🌱 I’m currently learning - `Spring Boot and React.js`.
+- 👯 Open to Collaborate on Full-Stack Development and DSA problems.
+- 🗒️ Plans for 2022: Working on Spring Boot and React.js projects
 - 💼 Actively Seeking internship opportunities.
-- ⚡ Hobbies: I like to solve problems using math or code and if I'm not solving problems you'll find me studying astronomy, watching anime or reading books/manga :P.
+- ⚡ Hobbies: I like to solve problems using math or code(mostly in Java, JS or C++) and if I'm not solving problems you'll find me reading, watching movies/anime or maybe playing Football Manager :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
 <br/>
