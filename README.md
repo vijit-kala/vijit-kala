@@ -9,11 +9,11 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Advanced Java`.
-- 👯 Open to Collaborate on Java Projects and Core CS Subjects.
+- 🌱 I’m currently learning - `Data Engineering`.
+- 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2022: Working towards becoming better at Solving Problems(Interview).
 - 💼 Actively Seeking internship opportunities.
-- ⚡ Hobbies: I like to solve problems using math or code(mostly in Java, JS or Python) and if I'm not solving problems you'll find me reading, watching movies/anime or maybe playing Football Manager :P.
+- ⚡ Hobbies: I like to solve problems using math or code(mostly in C++, JS or Python) and if I'm not solving problems you'll find me reading, watching movies/anime or maybe playing Football Manager :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
 <br/>
