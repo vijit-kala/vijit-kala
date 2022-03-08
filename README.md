@@ -13,7 +13,7 @@
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2022: Working towards becoming better at Solving Problems(Interview).
 - 💼 Actively Seeking internship opportunities.
-- ⚡ Hobbies: I like to solve problems using math or code(mostly in C++ or Python), explore more on cloud computing and if I'm not solving problems you'll find me reading articles about Cloud Computing or Data related tech or maybe books, watching movies/anime or maybe playing Football Manager :P.
+- ⚡ Hobbies: I like to solve problems using math or code(mostly in Java or Python), explore more on cloud computing and if I'm not solving problems you'll find me reading articles about Cloud Computing or Data related tech or maybe books, watching movies/anime or maybe playing Football Manager :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
 <br/>
@@ -22,7 +22,7 @@
 
 #### Programming Languages:
 
-<img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
+<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png">
 
