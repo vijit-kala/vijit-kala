@@ -9,11 +9,11 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Data Engineering`.
+- 🌱 I’m currently learning - `Spring Boot`.
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2022: Working towards becoming better at Solving Problems(Interview).
 - 💼 Actively Seeking internship opportunities.
-- ⚡ Hobbies: I like to solve problems using math or code(mostly in Java or Python), explore more on cloud computing and if I'm not solving problems you'll find me reading articles about Cloud Computing or Data related tech or maybe books, watching movies/anime or maybe playing Football Manager :P.
+- ⚡ Hobbies: I like to solve problems using math or code(mostly in Java or Python), explore more on Full Stack Development and if I'm not solving problems you'll find me reading articles about Cloud Computing or Tech or maybe books, watching movies/anime or maybe playing Football Manager :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
 <br/>
