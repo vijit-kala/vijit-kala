@@ -9,7 +9,7 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Spring Boot`.
+- 🌱 I’m currently learning - `Web Development`.
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2022: Working towards becoming better at Solving Problems(Interview).
 - 💼 Actively Seeking internship opportunities.
