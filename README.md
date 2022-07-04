@@ -6,13 +6,13 @@
 <!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
  -->
 
-### Currently a CS Undergrad.
+### Currently a final year CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
 - 🌱 I’m currently learning - `Web Development`.
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2022: Working towards becoming better at Solving Problems(Interview).
-- 💼 Actively Seeking internship opportunities.
+- 💼 Actively Seeking internship/employment opportunities.
 - ⚡ Hobbies: I like to solve problems using math or code(mostly in Java or Python), explore more on Full Stack Development and if I'm not solving problems you'll find me reading articles about Cloud Computing or Tech or maybe books, watching movies/anime or maybe playing Football Manager :P.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
