@@ -9,7 +9,7 @@
 ### Currently a final year CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Web Development`.
+- 🌱 I’m currently learning - `React & Typescript`.
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2022: Working towards becoming better at Solving Problems(Interview).
 - 💼 Actively Seeking internship/employment opportunities.
@@ -25,6 +25,8 @@
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png">
+
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
 <br/>
 
