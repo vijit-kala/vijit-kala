@@ -9,11 +9,11 @@
 ### Currently a final year CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Node.js`.
+- 🌱 I’m currently learning - `Python in depth`.
 - 👯 Open to Collaborate on projects.
-- 🗒️ Plans for 2022: Working towards becoming better at Solving Problems(Interview).
+- 🗒️ Plans for 2023: Building Full-stack development skills.
 - 💼 Actively Seeking internship/employment opportunities.
-- ⚡ Hobbies: I like to solve problems using math or code(mostly in Java or Python), explore more on Full Stack Development and if I'm not solving problems you'll find me reading articles about Cloud Computing or Tech or maybe books, watching movies/anime or maybe playing Football Manager :P.
+- ⚡ Hobbies: I like to solve problems using math or code(mostly in Java or Python), explore more on Full Stack Development and if I'm not solving problems you'll find me reading articles about Football, Philosophy, Tech and maybe playing FIFA.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
 <br/>
