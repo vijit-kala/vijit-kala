@@ -9,7 +9,7 @@
 ### Currently a final year CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Python in depth`.
+- 🌱 I’m currently learning - `JS`.
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2023: Building Full-stack development skills.
 - 💼 Actively Seeking internship/employment opportunities.
