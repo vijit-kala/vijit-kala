@@ -6,10 +6,10 @@
 <!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
  -->
 
-### Currently a final year CS Undergrad.
+### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Data Structures and Algorithms`.
+- 🌱 I’m currently learning - `Express.js`.
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2023: Building Problem Solving Skills
 - 💼 Actively Seeking internship/employment opportunities.
