@@ -9,11 +9,11 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Express.js`.
+- 🌱 I’m currently learning - `Typescript`.
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2023: Building Problem Solving Skills
 - 💼 Actively Seeking internship/employment opportunities.
-- ⚡ Hobbies: I like to solve problems using math or code(mostly in Java or Python), explore more on Football Analytics and if I'm not solving problems you'll find me reading articles about Football, Philosophy, Tech and maybe playing FIFA.
+- ⚡ Hobbies: I like to solve problems using math or code(mostly in JavaScript or Python), explore more on Football Analytics and if I'm not solving problems you'll find me reading articles about Football, Philosophy, Tech and maybe playing FIFA.
 - 💬 Fun fact: A programmer is not a PC repairman.
 
 <br/>
