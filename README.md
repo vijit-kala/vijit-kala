@@ -9,7 +9,6 @@
 ### Currently a CS Undergrad.
 
 - 🔭 I’m currently working on - `A personal Project`.
-- 🌱 I’m currently learning - `Typescript`.
 - 👯 Open to Collaborate on projects.
 - 🗒️ Plans for 2024: Building Problem Solving Skills
 - 💼 Actively Seeking internship/employment opportunities.
