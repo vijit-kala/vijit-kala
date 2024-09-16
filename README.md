@@ -6,7 +6,7 @@
 <!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
  -->
 
-### Currently a CS Undergrad.
+### Software Engineer.
 
 - 🔭 I’m currently working on - `A personal Project`.
 - 👯 Open to Collaborate on projects.
